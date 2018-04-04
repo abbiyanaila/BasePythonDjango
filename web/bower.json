@@ -1,0 +1,22 @@
+{
+  "name": "Bade pydj",
+  "homepage": "https://github.com/desyNds/BasePythonDjango",
+  "authors": [
+    "desyNds <dessyff67@gmail.com>"
+  ],
+  "description": "material of python django G1",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "admin-lte": "adminlte#^2.4.2"
+  }
+}
